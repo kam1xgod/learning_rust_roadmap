@@ -1,0 +1,1 @@
+/home/kami/repos/stupid_boy_learning_rust/3.\ common\ programming\ concepts/kg_to_pounds/target/debug/kg_to_pounds: /home/kami/repos/stupid_boy_learning_rust/3.\ common\ programming\ concepts/kg_to_pounds/src/main.rs
