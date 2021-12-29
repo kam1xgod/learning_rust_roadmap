@@ -1,0 +1,1 @@
+/home/kami/repos/stupid_boy_learning_rust/3.\ common\ programming\ concepts/data_types/target/debug/data_types: /home/kami/repos/stupid_boy_learning_rust/3.\ common\ programming\ concepts/data_types/src/main.rs
