@@ -1,0 +1,1 @@
+/home/kami/repos/stupid_boy_learning_rust/3.\ common\ programming\ concepts/functions/target/debug/functions: /home/kami/repos/stupid_boy_learning_rust/3.\ common\ programming\ concepts/functions/src/main.rs
