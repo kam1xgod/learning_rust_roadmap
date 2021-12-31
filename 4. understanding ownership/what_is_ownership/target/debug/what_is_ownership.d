@@ -1,1 +1,0 @@
-/home/kami/repos/stupid_boy_learning_rust/4.\ understanding\ ownership/what_is_ownership/target/debug/what_is_ownership: /home/kami/repos/stupid_boy_learning_rust/4.\ understanding\ ownership/what_is_ownership/src/main.rs
