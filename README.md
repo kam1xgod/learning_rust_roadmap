@@ -10,7 +10,7 @@ So, I've started learning Rust recently and this repo is my own roadmap.
 - [ ] Study the [std library](https://doc.rust-lang.org/std/index.html).
 
 ### Practices:
-- [ ] [Guessing game](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html);
+- [x] [Guessing game](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html);
 - [ ] [Command Line Project](https://doc.rust-lang.org/book/ch12-00-an-io-project.html);
 - [ ] [Multithreaded Web Server](https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html);
 - [ ] [CLI TODO App](https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/).
