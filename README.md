@@ -20,10 +20,11 @@ So, I've started learning Rust recently and this repo is my own roadmap.
 - [ ] [cargo book](https://doc.rust-lang.org/cargo/index.html);
 - [ ] [rustc book](https://doc.rust-lang.org/rustc/index.html);
 - [ ] [rustdoc book](https://doc.rust-lang.org/rustdoc/index.html);
-- [ ] [rustnomicon](https://doc.rust-lang.org/nomicon/index.html)
+- [ ] [rustnomicon](https://doc.rust-lang.org/nomicon/index.html).
 
 ### Practices:
-- [ ] [rustlings](https://github.com/rust-lang/rustlings/)
+- [ ] [rustlings](https://github.com/rust-lang/rustlings/);
+- [ ] [Rust by examples](https://doc.rust-lang.org/stable/rust-by-example/).
 ## Level #2
 - [ ] Pick a degree:
     - [Web development*](https://www.arewewebyet.org/);
