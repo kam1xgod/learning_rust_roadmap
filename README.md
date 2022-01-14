@@ -6,7 +6,7 @@ So, I've started learning Rust recently and this repo is my own roadmap.
 ## Level #0
 
 ### Theory:
-- [ ] Read official [book](https://doc.rust-lang.org/book/) in my free-of-study time;
+- [ ] Read official [book](https://doc.rust-lang.org/book/) in my free-of-study time (progress in "book" folder);
 - [ ] Study the [std library](https://doc.rust-lang.org/std/index.html).
 
 ### Practices:
